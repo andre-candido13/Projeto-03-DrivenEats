@@ -1,0 +1,188 @@
+
+.conteudo-topo  {
+    background-color: #cf2b2b;
+    width: 414px;
+    height: 92px;
+    padding-left: 21px;
+    position: fixed;
+    top: 0;
+    left: 0;
+  
+}
+
+
+
+.titulo {
+    color: #ffffff;
+    width: 248px;
+    height: 44px;
+    font-size: 44px;
+    line-height: 54.63px;
+    font-weight: 400;
+    letter-spacing: -1.2%;
+    padding-bottom: 5px;
+    
+
+}
+
+.subtitulo {
+    color: #ffffff;
+    width: 226px;
+    height: 17px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.09px;
+}
+.titulo-prato-principal {
+    color: #333333;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 32.28px;
+    letter-spacing: 1.8%;
+    padding-top: 123px;
+    padding-bottom: 31px;
+    
+}
+.titulos {
+    color: #333333;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 32.28px;
+    letter-spacing: 1.8%;
+    padding-top: 27px;
+    padding-bottom: 31px;
+
+}
+
+
+.coluna-pedidos {
+background-color: #E5E5E5;
+width: 414px;
+height: 1200px;
+padding-left: 19px;
+
+
+}
+
+
+.selecao-pratos {
+    display: flex;
+    height: 245px;
+    width: 100%;
+    background-color: #e5e5e5;
+    overflow: hidden;
+    overflow-x: scroll 
+       
+}
+
+.caixa1 {
+    width: 172px;
+    height: 216px;
+    padding: 0 16px 0 0;
+ 
+
+}
+
+.conteudo-prato-principal {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 172px;
+    height: 216px; 
+    border-radius: 9px;
+    border: 3px solid white;
+    
+}
+
+.selecionado {
+   
+    border: 3px solid red;
+    
+}
+
+
+
+
+.titulo-foto {
+    width:138px;
+    height: 23px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 18.75px;
+    color: #333333;
+   
+}
+
+.subtitulo-foto {
+    width: 147px;
+    height: 39px;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 17.58px;
+    color: #a6a6a6;
+  
+    
+
+}
+.valor {
+    width: 66px;
+    height: 19px;
+    font-size: 16px;
+    line-height: 18.75px;
+    font-weight: 400;
+    color: #000000;
+   
+}
+
+.selecao-pratos-inferior {
+    display: flex;
+    height: 245px;
+    width: 100%;
+    background-color: #e5e5e5;
+    overflow: hidden;
+    overflow-x: scroll;
+   
+
+}
+
+.caixa-botao-pedido {
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 414px;
+    height: 92px;
+    margin-top: 16px;
+    padding-left: 21px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+.botao-pedido {
+    background-color: #cbcbcb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 364px;
+    height: 61px;
+    border-radius: 50px;
+
+}
+
+.escondido {
+    background-color: green;
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.44px;
+    letter-spacing: 1.8%;
+}
+
+
+
