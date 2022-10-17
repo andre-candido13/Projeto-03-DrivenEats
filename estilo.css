@@ -115,6 +115,7 @@ padding-left: 19px;
 
 
 .titulo-foto {
+    font-family: "roboto";
     width:138px;
     height: 23px;
     font-size: 16px;
@@ -125,17 +126,20 @@ padding-left: 19px;
 }
 
 .subtitulo-foto {
+    font-family: "roboto";
     width: 147px;
     height: 39px;
     font-size: 15px;
     font-weight: 300;
     line-height: 17.58px;
     color: #a6a6a6;
+    padding-left: 9px;
   
     
 
 }
 .valor {
+    font-family: "roboto";
     width: 66px;
     height: 19px;
     font-size: 16px;
