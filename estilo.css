@@ -1,4 +1,9 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap");
+
+
+
 .conteudo-topo  {
     background-color: #cf2b2b;
     width: 414px;
@@ -13,6 +18,7 @@
 
 
 .titulo {
+    font-family: "righteous", cursive;
     color: #ffffff;
     width: 248px;
     height: 44px;
@@ -21,11 +27,12 @@
     font-weight: 400;
     letter-spacing: -1.2%;
     padding-bottom: 5px;
-    
-
 }
 
+
+
 .subtitulo {
+    font-family: "roboto";
     color: #ffffff;
     width: 226px;
     height: 17px;
@@ -34,6 +41,7 @@
     line-height: 21.09px;
 }
 .titulo-prato-principal {
+    font-family: "righteous", cursive;
     color: #333333;
     font-size: 26px;
     font-weight: 400;
@@ -44,6 +52,7 @@
     
 }
 .titulos {
+    font-family: "righteous", cursive;
     color: #333333;
     font-size: 26px;
     font-weight: 400;
@@ -92,14 +101,12 @@ padding-left: 19px;
     width: 172px;
     height: 216px; 
     border-radius: 9px;
-    border: 3px solid white;
+    border: 3px solid white; 
     
 }
 
-.selecionado {
-   
-    border: 3px solid red;
-    
+.click ion-icon {
+    border: yellow;
 }
 
 
@@ -162,7 +169,7 @@ padding-left: 19px;
 }
 
 .botao-pedido {
-    background-color: #cbcbcb;
+    background-color:  #32b72f;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -170,19 +177,29 @@ padding-left: 19px;
     height: 61px;
     border-radius: 50px;
 
+
 }
 
-.escondido {
-    background-color: green;
+h5 {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 15px;
+    font-weight: 400s;
+    line-height: 17.58px;
+
+
 }
+
 
 h2 {
-    color: #ffffff;
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 23.44px;
-    letter-spacing: 1.8%;
+    color: #a6a6a6;
+    font-family: "roboto";
+    font-size: 15px;
+    font-weight: 400s;
+    line-height: 17.58px;
+
 }
+
 
 
 

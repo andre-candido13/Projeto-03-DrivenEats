@@ -14,10 +14,10 @@ let preco2
 
 function escolherfrango1 () {
 
-    document.getElementById("frangotop1").style.borderColor = "blue"
+    document.getElementById("frangotop1").style.borderColor = "#32b72f"
     document.getElementById("frangotop2").style.borderColor = "white"
     document.getElementById("frangotop3").style.borderColor = "white"
-    
+
  
     prato = "- Prato: Frango yin-yang"
 
@@ -26,11 +26,10 @@ function escolherfrango1 () {
 }
 
 
-
 function escolherfrango2 () {
 
     document.getElementById("frangotop1").style.borderColor = "white"
-    document.getElementById("frangotop2").style.borderColor = "blue"
+    document.getElementById("frangotop2").style.borderColor = "#32b72f"
     document.getElementById("frangotop3").style.borderColor = "white"
     
     prato = "- Prato: Frango yin-yang"
@@ -45,7 +44,7 @@ function escolherfrango3 () {
 
     document.getElementById("frangotop1").style.borderColor = "white"
     document.getElementById("frangotop2").style.borderColor = "white"
-    document.getElementById("frangotop3").style.borderColor = "blue"
+    document.getElementById("frangotop3").style.borderColor = "#32b72f"
     
     prato = "- Prato: Frangão"
 
@@ -56,7 +55,7 @@ function escolherfrango3 () {
     
 function escolherbebida1 () {
 
-    document.getElementById("bebidatop1").style.borderColor = "blue"
+    document.getElementById("bebidatop1").style.borderColor = "#32b72f"
     document.getElementById("bebidatop2").style.borderColor = "white"
     document.getElementById("bebidatop3").style.borderColor = "white"
     
@@ -71,7 +70,7 @@ function escolherbebida1 () {
 function escolherbebida2 () {
 
     document.getElementById("bebidatop1").style.borderColor = "white"
-    document.getElementById("bebidatop2").style.borderColor = "blue"
+    document.getElementById("bebidatop2").style.borderColor = "#32b72f"
     document.getElementById("bebidatop3").style.borderColor = "white"
     
     bebida = "- Bebida: coquinha"
@@ -86,7 +85,7 @@ function escolherbebida3 () {
 
     document.getElementById("bebidatop1").style.borderColor = "white"
     document.getElementById("bebidatop2").style.borderColor = "white"
-    document.getElementById("bebidatop3").style.borderColor = "blue"
+    document.getElementById("bebidatop3").style.borderColor = "#32b72f"
     
     bebida = "- Bebida: coquinha"
     preco1 = 11
@@ -95,7 +94,7 @@ function escolherbebida3 () {
     
 function escolhersobremesa1 () {
 
-    document.getElementById("mesatop1").style.borderColor = "blue"
+    document.getElementById("mesatop1").style.borderColor = "#32b72f"
     document.getElementById("mesatop2").style.borderColor = "white"
     document.getElementById("mesatop3").style.borderColor = "white"
     
@@ -109,7 +108,7 @@ function escolhersobremesa1 () {
 function escolhersobremesa2 () {
 
     document.getElementById("mesatop1").style.borderColor = "white"
-    document.getElementById("mesatop2").style.borderColor = "blue"
+    document.getElementById("mesatop2").style.borderColor = "#32b72f"
     document.getElementById("mesatop3").style.borderColor = "white"
 
     sobremesa = "- Sobremesa: pudim"
@@ -124,7 +123,7 @@ function escolhersobremesa3 () {
 
     document.getElementById("mesatop1").style.borderColor = "white"
     document.getElementById("mesatop2").style.borderColor = "white"
-    document.getElementById("mesatop3").style.borderColor = "blue"
+    document.getElementById("mesatop3").style.borderColor = "#32b72f"
     
     sobremesa ="- Sobremesa: pudim"
     preco2 = 111
