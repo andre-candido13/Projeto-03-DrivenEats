@@ -109,14 +109,9 @@ padding-left: 19px;
     height: 216px; 
     border-radius: 9px;
     border: 3px solid white; 
+    box-shadow: 1.5px 1.5px 1.5px 0 #333333;
     
 }
-
-.click ion-icon {
-    border: yellow;
-}
-
-
 
 
 .titulo-foto {
