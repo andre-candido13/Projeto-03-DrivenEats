@@ -51,6 +51,13 @@
     padding-bottom: 31px;
     
 }
+
+img {
+
+    width:144px;
+    height: 87px;
+}
+
 .titulos {
     font-family: "righteous", cursive;
     color: #333333;
